@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(185, 239, 218);
+}
+
+#app {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#projects {
+    margin-top: 20px;
+}
+
+.project {
+    border: 3px solid #a52683;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.task {
+    margin-left: 20px;
+}
+
+.comment {
+    margin-left: 40px;
+}
+
+.btn{
+    
+    background-color: rgb(33, 184, 78);
+}
+h1{
+    text-align: center;
+}
